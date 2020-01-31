@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120648629881",
+    "firebase_url": "https://mobile-varificatrion.firebaseio.com",
+    "project_id": "mobile-varificatrion",
+    "storage_bucket": "mobile-varificatrion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120648629881:android:c07f992b03fb6a68",
+        "android_client_info": {
+          "package_name": "experiment.madilance.mobilevarification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120648629881-1mcjgnkb1q9kcgklj9lh8fe96uenu40b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "experiment.madilance.mobilevarification",
+            "certificate_hash": "1f137e6556af9b9a9691f8d0e712e2a0f90b215a"
+          }
+        },
+        {
+          "client_id": "120648629881-mak1alpnd3pr6si7jffd8lfms3r23pjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23-kRmOARMEjVI6-FyLkUlICbViMgbpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120648629881-mak1alpnd3pr6si7jffd8lfms3r23pjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
